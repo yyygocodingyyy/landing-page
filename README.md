@@ -6,5 +6,6 @@ landing page for workshop
 * playground.html did not use bootstrap
 
 ## Page Layout
+* bootstrap version (btn, responsive design, icon aligned)
 >
 ![alt tag](https://github.com/yyygocodingyyy/landing-page/blob/master/layout.png)
