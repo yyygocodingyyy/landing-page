@@ -1,7 +1,7 @@
 # Landing Page 
 landing page for workshop
 
-## Two html file
+## Two html files
 * index.html used bootstrap & font-awesome
 * playground.html did not use bootstrap
 
